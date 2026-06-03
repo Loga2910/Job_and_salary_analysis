@@ -3,7 +3,7 @@
 
 ##  Project Overview
 
-The **Jobs and Salary Breakdown Dashboard** is an interactive Power BI project designed to analyze salary trends across different job roles and locations. The dashboard helps users understand salary distributions, identify high-paying positions, compare compensation across regions and highest job vacancies across regions.
+The **Jobs and Salary Breakdown Dashboard** is an interactive Power BI project designed to analyze salary trends across different job roles and locations. The dashboard helps users understand salary distributions, identify high-paying positions, compare compensation across regions , and highest job vacancies across regions.
 
 This project demonstrates data visualization, business intelligence reporting, and analytical storytelling using Power BI.
 
@@ -47,14 +47,14 @@ https://github.com/user-attachments/assets/0bd008df-5ab9-419c-af80-a05545300f29
 
 The dashboard highlights:
 
-=>Average Salary
-=>Maximum Salary
-=>Minimum Salary
-=>Total Job Vacancies
-=>Salary by Job Title
-=>Salary by Location
-=>Top Paying Roles
-=>Country-wise Salary Analysis
+Average Salary,
+Maximum Salary,
+Minimum Salary,
+Total Job Vacancies,
+Salary by Job Title,
+Salary by Location,
+Top Paying Roles, and
+Country-wise Salary Analysis
 
 ---
 
