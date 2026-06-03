@@ -48,19 +48,12 @@ https://github.com/user-attachments/assets/0bd008df-5ab9-419c-af80-a05545300f29
 The dashboard highlights:
 
 Average Salary
-
 Maximum Salary
-
 Minimum Salary
-
 Total Job Vacancies
-
 Salary by Job Title
-
 Salary by Location
-
 Top Paying Roles
-
 Country-wise Salary Analysis
 
 ---
@@ -113,12 +106,13 @@ Country-wise Salary Analysis
 
 ### Average Salary by Location
 
-<img width="697" height="264" alt="Screenshot 2026-06-03 140532" src="https://github.com/user-attachments/assets/10ee3a3d-4a89-44aa-a87a-3498f0c5cc42" />
+<img width="712" height="323" alt="Screenshot 2026-06-03 140556" src="https://github.com/user-attachments/assets/5b5ef204-5dd4-4b71-81b8-c138a3d10f1e" />
+
 
 
 ### Job vacancies by location
 
-<img width="712" height="323" alt="Screenshot 2026-06-03 140556" src="https://github.com/user-attachments/assets/5b5ef204-5dd4-4b71-81b8-c138a3d10f1e" />
+<img width="697" height="264" alt="Screenshot 2026-06-03 140532" src="https://github.com/user-attachments/assets/10ee3a3d-4a89-44aa-a87a-3498f0c5cc42" />
 
 
 
