@@ -47,14 +47,14 @@ https://github.com/user-attachments/assets/0bd008df-5ab9-419c-af80-a05545300f29
 
 The dashboard highlights:
 
-Average Salary
-Maximum Salary
-Minimum Salary
-Total Job Vacancies
-Salary by Job Title
-Salary by Location
-Top Paying Roles
-Country-wise Salary Analysis
+=>Average Salary
+=>Maximum Salary
+=>Minimum Salary
+=>Total Job Vacancies
+=>Salary by Job Title
+=>Salary by Location
+=>Top Paying Roles
+=>Country-wise Salary Analysis
 
 ---
 
