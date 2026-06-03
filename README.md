@@ -1,5 +1,5 @@
 ---
-#  Salary Breakdown Dashboard | Power BI
+#  Jobs and Salary Breakdown Dashboard | Power BI
 
 ##  Project Overview
 
@@ -9,11 +9,14 @@ This project demonstrates data visualization, business intelligence reporting, a
 
 ---
 
+
+
 ##  Dashboard Preview
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+<img width="1368" height="742" alt="Screenshot 2026-06-03 135947" src="https://github.com/user-attachments/assets/3856d41d-fb59-4cf5-8df0-c593e4e67800" />
+
 
 ---
 
@@ -90,21 +93,23 @@ Country-wise Salary Analysis
 
 ##  Dashboard Screenshots
 
-### Salary Analysis by Job Title
+### Average Salary Analysis by Job Title
 
-![Job Title Analysis](Images/job_title_analysis.png)
+<img width="610" height="580" alt="Screenshot 2026-06-03 140430" src="https://github.com/user-attachments/assets/9376fbd6-6abb-4925-89e7-0c38296f79cd" />
 
-### Salary by Location
 
-![Location Analysis](Images/location_analysis.png)
 
-### Salary Distribution
+### Average Salary by Location
 
-![Salary Distribution](Images/salary_distribution.png)
+<img width="697" height="264" alt="Screenshot 2026-06-03 140532" src="https://github.com/user-attachments/assets/10ee3a3d-4a89-44aa-a87a-3498f0c5cc42" />
 
-### Interactive Filters
 
-![Filters](Images/filters.png)
+### Job vacancies by location
+
+<img width="712" height="323" alt="Screenshot 2026-06-03 140556" src="https://github.com/user-attachments/assets/5b5ef204-5dd4-4b71-81b8-c138a3d10f1e" />
+
+
+
 
 ---
 
